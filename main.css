@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#label{margin-top: 15px;
+    width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 5px 5px rgb(171, 167, 167);
+    border-radius: 8px;
+    
+}
+
+
+
+#section__list{
+    width: 300px;
+}
+#box{
+    width: 190px;
+    align-items: center;
+}
+#section__item{
+ box-shadow: 5px 5px 5px rgb(129, 127, 127);
+ margin-bottom: 15px;
+ position: relative;
+}
+
+
+#section__link{
+    position: absolute;
+    top: 8px;
+
+}
